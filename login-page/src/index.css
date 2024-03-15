@@ -19,12 +19,11 @@
   }
 
   .col1{
-    margin-top: 20px;
+    height: 520px;
+    border-top-left-radius: 60px ;
+    border-bottom-left-radius: 60px;
   }
-
-  .h1{
-    margin-top: -5px;
-  }
+  
 
   .p2{
     margin-left: -28px;
@@ -32,4 +31,23 @@
   }
   .p1{
     margin-left:-137px;
+  }
+
+  .img{
+    margin-top: -62px;
+  }
+  
+  .p3{
+    padding-top: 100px;
+  }
+
+  .p4{
+    margin-left: -119px;
+  }
+
+  .p5{
+    margin-left: 142px;
+    text-align: left;
+    border-color: #00a6ab;
+    border-radius: 5px;
   }
