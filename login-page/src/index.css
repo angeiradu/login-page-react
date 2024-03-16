@@ -11,7 +11,7 @@
   
   .sub-section{
     background-color: #ffffff;
-    height: 550px;
+    height: 800px;
     width: 1000px;
     margin-left: 120px;
     padding-top: 30px;
@@ -19,11 +19,17 @@
   }
 
   .col1{
-    height: 520px;
+    height: 770px;
     border-top-left-radius: 60px ;
     border-bottom-left-radius: 60px;
   }
-  
+
+  .h1{
+    margin-top: 2px;
+  }
+  .h0{
+    margin-top: 8px;
+  }
 
   .p2{
     margin-left: -28px;
@@ -35,6 +41,7 @@
 
   .img{
     margin-top: -62px;
+    height: 630px;
   }
   
   .p3{
@@ -50,4 +57,41 @@
     text-align: left;
     border-color: #00a6ab;
     border-radius: 5px;
+  }
+
+  .p6{
+    margin-left: -142px;
+  }
+
+  .p7{
+    margin-left: 288px;
+    padding-top: 20px;
+  }
+
+  .p8{
+      margin-left: 142px;
+      text-align: left;
+      border-radius: 5px;
+  }
+
+  .p9{
+    margin-top: 20px;
+    margin-left: 142px;
+    text-align: left;
+    text-align: center;
+    border-radius: 5px;
+  }
+
+  .p10{
+    margin-left:100px;
+    margin-top: 20px;
+  }
+
+  .p11{
+    margin-left: 100px;
+    margin-top: 120px;
+  }
+
+  .col2{
+    justify-content: center;
   }
