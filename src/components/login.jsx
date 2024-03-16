@@ -8,7 +8,7 @@ const login = () => {
       <div className='sub-section'>
         <div className='grid grid-cols-1 xl:grid-cols-2 lg:grid-cols-2 gap-2 ' >
           <div className='bg-[#f8fdfc] col1'>
-            <div className='flex gap-4 px-20  text-[#275556] text-3xl font-bold'>
+            <div className='flex gap-4 px-2 xl:px-20 lg:px-20  text-[#275556] text-3xl font-bold'>
               <div className='text-[#00a6ab] h0 text-2xl'>
                 <FaCircleHalfStroke />
               </div>
