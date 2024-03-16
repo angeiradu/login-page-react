@@ -17,7 +17,7 @@ const login = () => {
             <div>
               <p className='py-11 text-[#275556] text-4xl font-bold p1'>Unlock Your</p>
               <h1 className='py-11 text-[#275556] text-4xl font-bold p2' >Team <span className='text-[#00a6ab]'>Performance</span></h1>
-              <img className='img' src={Image} alt="/"/>
+              <img className='img object-cover' src={Image} alt="/"/>
             </div>
           </div>
           <div className='col2'>
