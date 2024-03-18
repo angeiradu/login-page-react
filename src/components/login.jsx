@@ -4,8 +4,8 @@ import Image from '../assets/image.png'
 
 const login = () => {
   return (
-    <div className='bg-[#d8edee] text-center pt-24'>
-      <div className='bg-[#ffffff] rounded-[60px]  ' >
+    <div className='bg-[#d8edee] text-center pt-24 pb-24 pl-20 pr-20'>
+      <div className='bg-[#ffffff] rounded-[60px]'>
         <div className='grid grid-cols-1 xl:grid-cols-2 lg:grid-cols-2 gap-2  ' >
           <div className='bg-[#f8fdfc] height-[500px] rounded-l-[60px] '>
             <div className='flex gap-4 px-2 xl:px-20 lg:px-20  text-[#275556] text-3xl font-bold ml-[69px] pt-[25px]'>
