@@ -21,13 +21,13 @@ const login = () => {
             </div>
           </div>
           <div >
-            <p className='text-[#275556] text-2xl font-bold pt-[100px] md:ml-[-100px] '>Welcome to Online</p>
-            <p className='text-[#a0b8b8] py-2  font-bold  md:ml-[-100px]'>Unlock your team performance</p>
-            <p className='text-[#a0b8b8] py-6 md:ml-[-225px] md:pl-[380px] text-left px-8'>Email address</p>
+            <p className='text-[#275556] text-2xl font-bold pt-[100px]  '>Welcome to Online</p>
+            <p className='text-[#a0b8b8] py-2  font-bold  '>Unlock your team performance</p>
+            <p className='text-[#a0b8b8] py-6 px-5 text-left lg:px-[155px] md:px-[182px]'>Email address</p>
             <input type='text' name='eamil' placeholder='Enter email address'  className=' w-[250px] border  border-[#00a6ab] rounded-md p-3 md:w-80  text-left  text-[#275556] font-bold'/>
-            <p className='text-[#a0b8b8] py-6 md:ml-[-250px] md:pl-[405px] text-left px-8'>Password</p>
+            <p className='text-[#a0b8b8] py-6  px-5 text-left lg:px-[155px] md:px-[182px]'>Password</p>
             <input type='text' name='password' placeholder='Enter password' className=' w-[250px] border p-3 md:w-80  text-left rounded-[5px] text-[#a0b8b8] ' /> 
-            <p className='font-bold text-[#275556] md:ml-[180px] pt-[20px] md:mr-[130px] text-right pr-7'>Forgot password?</p>
+            <p className=' pr-5 font-bold text-[#275556]  pt-[20px]  text-right lg:pr-[155px] md:pr-[182px]'>Forgot password?</p>
             <button type='button' className=' w-[250px] border p-3 md:w-80 mt-[20px]  text-center rounded-[5px] text-[#ffff] bg-[#00a6ab] font-bold'>Login</button>
             <p className='  text-[#275556] font-bold '>Don't have an account? <span className='text-[#00a6ab] '>Register</span></p>
             <p className='text-[#a0b8b8]  mt-[120px] font-bold '>©2021 all rights reserved</p>
