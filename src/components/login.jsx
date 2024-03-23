@@ -21,16 +21,16 @@ const login = () => {
             </div>
           </div>
           <div>
-            <p className='text-[#275556] text-2xl font-bold pt-[100px] ml-[-140px]'>Welcome to Online</p>
-            <p className='text-[#a0b8b8] py-2  font-bold  ml-[-140px]'>Unlock your team performance</p>
-            <p className='text-[#a0b8b8] py-6 ml-[-265px]'>Email address</p>
-            <p className='border  border-[#00a6ab] rounded-md p-3 w-80 ml-[99px] text-left  text-[#275556] font-bold'>a.iradukund2@alustudent.com</p>
-            <p className='text-[#a0b8b8] py-6 ml-[-290px]'>Password</p>
-            <p className='border p-3 w-80 ml-[99px] text-left rounded-[5px] text-[#a0b8b8] '>Enter password</p> 
-            <p className='font-bold text-[#275556] ml-[135px] pt-[20px]'>Forgot password?</p>
-            <p className='border p-3 w-80 mt-[20px] ml-[99px] text-center rounded-[5px] text-[#ffff] bg-[#00a6ab] font-bold'>Login</p>
-            <p className='  text-[#275556] font-bold mr-[40px]'>Don't have an account? <span className='text-[#00a6ab] '>Register</span></p>
-            <p className='text-[#a0b8b8]  mt-[120px] font-bold mr-[40px]'>©2021 all rights reserved</p>
+            <p className='text-[#275556] text-2xl font-bold pt-[100px] ml-[-100px]'>Welcome to Online</p>
+            <p className='text-[#a0b8b8] py-2  font-bold  ml-[-100px]'>Unlock your team performance</p>
+            <p className='text-[#a0b8b8] py-6 ml-[-225px]'>Email address</p>
+            <input type='text' name='eamil' placeholder='Enter email address'  className='border  border-[#00a6ab] rounded-md p-3 w-80  text-left  text-[#275556] font-bold'/>
+            <p className='text-[#a0b8b8] py-6 ml-[-250px]'>Password</p>
+            <input type='text' name='password' placeholder='Enter password' className='border p-3 w-80  text-left rounded-[5px] text-[#a0b8b8]' /> 
+            <p className='font-bold text-[#275556] ml-[180px] pt-[20px]'>Forgot password?</p>
+            <button type='button' className='border p-3 w-80 mt-[20px]  text-center rounded-[5px] text-[#ffff] bg-[#00a6ab] font-bold'>Login</button>
+            <p className='  text-[#275556] font-bold '>Don't have an account? <span className='text-[#00a6ab] '>Register</span></p>
+            <p className='text-[#a0b8b8]  mt-[120px] font-bold '>©2021 all rights reserved</p>
           </div>
         </div>
       </div>
